@@ -1,7 +1,7 @@
 {
   "name": "ts-test",
   "version": "0.0.6",
-  "private": true,
+  "private": false,
   "description": "",
   "main": "index.js",
   "scripts": {
