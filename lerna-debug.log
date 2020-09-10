@@ -1,5 +1,0 @@
-31 error Error: Command failed: git add -- packages/ts-test/package.json packages/ts-test/package-lock.json packages/react-test/package.json packages/react-test/package-lock.json lerna.json
-31 error fatal: Pathspec 'packages/react-test/package.json' is in submodule 'packages/react-test'
-31 error
-31 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
-31 error     at Promise.all.then.arr (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16)
