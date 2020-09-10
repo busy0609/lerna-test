@@ -1,5 +1,5 @@
 {
-  "name": "ts-test",
+  "name": "ts-test-mirdan",
   "version": "0.0.8",
   "private": false,
   "description": "",
@@ -9,5 +9,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "98f2efd99d5e2be87ad3fc485af5f09cbbb9fe40"
+  "gitHead": "84893532cb78a34923d8fdc58e3b590a52ab8441"
 }
